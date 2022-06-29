@@ -1,0 +1,11 @@
+--2022-06-18 15:25:53--  https://www.youtube.com/watch?v=m3BKOucOKLw
+Resolving www.youtube.com (www.youtube.com)... 142.250.182.110, 142.250.67.46, 142.250.77.110, ...
+Connecting to www.youtube.com (www.youtube.com)|142.250.182.110|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘watch?v=m3BKOucOKLw’
+
+watch?v=m3BKOucOKLw           [<=>                                 ]       0  --.-KB/s               watch?v=m3BKOucOKLw           [ <=>                                ] 361.65K  1.72MB/s               watch?v=m3BKOucOKLw           [  <=>                               ] 368.25K   774KB/s               watch?v=m3BKOucOKLw           [   <=>                              ] 614.89K  1.13MB/s    in 0.5s    
+
+2022-06-18 15:25:54 (1.13 MB/s) - ‘watch?v=m3BKOucOKLw’ saved [629651]
+

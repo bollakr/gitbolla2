@@ -1,0 +1,10 @@
+REDDY
+boll
+cars
+dogs
+mangoes
+output.txt
+rushika
+shrihaan
+sreekar
+srinath
